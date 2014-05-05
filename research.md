@@ -1,9 +1,9 @@
 ---
-Title: Daijiang Li::Research
+Title: Huan Fan::Research
 layout: home
 ---
 
-<h1 class="sitename">Daijiang Li</h1>
+<h1 class="sitename">Huan Fan</h1>
   <ul class="nav pills">
   <li><a href="/"><i class="fa fa-home fa-fw"></i> Home</a></li>
   <li><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book fa-fw"></i> Resume</a></li>
@@ -15,6 +15,5 @@ layout: home
 </ul>
 
 
-## Long-term plant community dynamics
-Ecosystems are increasingly affected by anthropogenic and natural disturbances which have profound influence on biodiversity and ecosystem functioning. Understanding how these disturbances affect plant communities has important implications for maintaining biodiversity and ecological processes, managing these communities, and projecting the response of plant communities to changing disturbance regimes. Yet long-term effects of disturbances on plant community assembly are still poorly understood, mainly because long-term baseline data regarding plant community composition is rare. Fortunately, in Wisconsin, we have excellent baseline data of plant communities because of the the carefully archived data from surveys conducted by J. T. Curtis and colleagues. 
+## Alignment and assembly-free Phylogenomics
 

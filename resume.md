@@ -1,11 +1,11 @@
 ---
-Title: Daijiang Li::Resume
+Title: Huan Fan::Resume
 layout: home
 ---
 
 
   
-  <h1 class="sitename">Daijiang Li</h1>
+  <h1 class="sitename">Huan Fan</h1>
   <ul class="nav pills">
   <li><a href="/"><i class="fa fa-home fa-fw"></i> Home</a></li>
   <li class="active"><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book fa-fw"></i> Resume</a></li>
@@ -17,10 +17,9 @@ layout: home
 </ul>
 
 ## Education
-+  2011 ~ Now, **Ph.D** student in the Department of Botany, University of Wisconsin-Madison.
-+  2013 ~ Now, **M.S** Biometry, Department of Statistics, University of Wisconsin-Madison.
-+  2008 ~ 2011, **M.S** School of Life Science, Sun Yat-sen University, China.
-+  2004 ~ 2008, **B.S** School of Life Science, Yunnan University, China.
++  2011 ~ Now, **Ph.D** Department of Zoology, University of Wisconsin-Madison.
++  2008 ~ Now, **Ph.D** Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
++  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang College, Yunnan University, China.
 
 
 
