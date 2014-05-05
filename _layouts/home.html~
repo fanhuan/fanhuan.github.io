@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Daijiang Li</title>
-  <meta name="author" content="Daijiang Li"/>
+  <meta name="author" content="Huan Fan"/>
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
   <link rel="stylesheet" href="../assets/font-awesome/css/font-awesome.css">
   <link rel="stylesheet" type="text/css" href="/assets/css/home.css">
@@ -47,7 +47,7 @@
   <div class="container">
 {{ content }}
 <footer>
-  <p><small>Copyright 2011 - {{site.time | date:"%Y"}} by <a href="http://daijiang.name">Daijiang Li</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
+  <p><small>Copyright 2011 - {{site.time | date:"%Y"}} by <a href="http://fanhuan.github.io">Huan Fan</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
 </footer>
 </div>
 </body>
