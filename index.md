@@ -18,10 +18,11 @@ layout: home
 
 
 <p><img src="https://scontent-b.xx.fbcdn.net/hphotos-prn2/t31.0-8/p843x403/1401422_10203779727520797_4064087716814386306_o.jpg " title="Huan Fan" align="right" />
-I'm a many year PhD student in a joint-program of Xishuangbanna Tropical Botanical Garden[(XTBG)](http://english.xtbg.cas.cn/), Chinese Academy of Sciences, and the Department of [Zoology](http://www.zoology.wisc.edu/), University of Wisconsin-Madison. I have three advisors. I used to work with [Chuck Cannon](http://www.ecologicalevolution.org/) in XTBG and now he is still on my committee. Now I work with [Yann Surget-Groba](http://www.surget-groba.ch/start.php) in XTBG and with [Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) in Madison. I am interested in analysing next-generation sequencing data of non-model organisms with ecological or evolutionary interests. 
+I'm a many year PhD student in a joint-program of Xishuangbanna Tropical Botanical Garden[(XTBG)](http://english.xtbg.cas.cn/), Chinese Academy of Sciences, and the Department of [Zoology](http://www.zoology.wisc.edu/), University of Wisconsin-Madison. I have three advisors. I used to work with [Chuck Cannon](http://www.ecologicalevolution.org/) in XTBG and he is still on my committee. Now I work with [Yann Surget-Groba](http://www.surget-groba.ch/start.php) in XTBG and with [Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) in Madison. I am interested in analysing next-generation sequencing data of non-model organisms with ecological or evolutionary interests. 
 
 ### Contact me
 Department of Zoology
+
 University of Wisconsin-Madison  
 430 Lincoln Drive  
 Madison, WI 53706  
