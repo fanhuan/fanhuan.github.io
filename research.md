@@ -16,4 +16,5 @@ layout: home
 
 
 ## Alignment and assembly-free Phylogenomics
+The major project I was working on is to develop this Alignment and Assembly Free (AAF) method to reconstruct phylogeny from raw sequencing data. You can find the software package with detailed documentation and tutorial at here[http://sourceforge.net/projects/aaf-phylogeny/] 
 
