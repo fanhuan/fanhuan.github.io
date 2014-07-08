@@ -29,7 +29,7 @@ layout: home
 ## Phylogenetic tools
 
 ## Blogs
-+ [Timothee Poisot](http://timotheepoisot.fr/) ecological netowek analysis.
++ [ACGT](http://www.acgt.me/) Thoughts on biology, genomics, and the ongoing threat to humanity from the bogus use of bioinformatics acronyms.
 + [The EEB & Flow](http://evol-eco.blogspot.ca/) 
 + [Philip Guo](http://pgbovine.net/index.html) Author of PhD Grind.
 
