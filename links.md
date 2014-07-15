@@ -32,6 +32,9 @@ layout: home
 + [ACGT](http://www.acgt.me/) Thoughts on biology, genomics, and the ongoing threat to humanity from the bogus use of bioinformatics acronyms.
 + [The EEB & Flow](http://evol-eco.blogspot.ca/) 
 + [Philip Guo](http://pgbovine.net/index.html) Author of PhD Grind.
++ [Titus Brown](http://ivory.idyll.org/blog/) Living in an avory basement
++ [Hazel](http://cane-toad.blogspot.com/) Biosecurity and invasive species
+
 
 ## Misc.
 + [Markdown](http://daringfireball.net/projects/markdown/syntax) a human readable language for easy writing.
