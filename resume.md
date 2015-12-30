@@ -21,6 +21,9 @@ layout: home
 +  2008 ~ Now, **Ph.D** Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
 +  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang College, Sichuan University, China.
 
+## Software mastered
++  Metagenomics: QIIME
+
 
 
 
