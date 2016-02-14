@@ -17,9 +17,12 @@ layout: home
 </ul>
 
 ## Education
-+  2011 ~ Now, **Ph.D** Department of Zoology, University of Wisconsin-Madison.
-+  2008 ~ Now, **Ph.D** Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
++  2011 ~ 2016(Expected), **Ph.D** Department of Zoology, University of Wisconsin-Madison.
++  2008 ~ 2015, **Ph.D** Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
 +  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang College, Sichuan University, China.
+
+## Software mastered
++  Metagenomics: QIIME
 
 
 
