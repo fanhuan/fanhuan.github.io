@@ -24,7 +24,7 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang College, Sichuan University, China.
 
 ## Work Experience
-+  2017-2018, **Postdoc**, Department of Bacteriology, University of Wisconsin-Madison2010 
++  2017, **Postdoc**, Department of Bacteriology, University of Wisconsin-Madison
 +  2015, **Guest lecturer**, Associated Colleges of the Chicago Area seminar series.
 +  2014, **Teaching assistant**, Introductory Biology (Zoo152), UW-Madison
 +  2012, **Teaching assistant**, Introductory Ecology (Zoo260), UW-Madison+  2010, **Intern**, Botanical Garden Conservation International (London, UK, NGO)
