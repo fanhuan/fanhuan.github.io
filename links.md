@@ -16,28 +16,26 @@ layout: home
   <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
 </ul>
 
-## Python
+## [My Github Page](https://github.com/fanhuan)
+Various ongoing projects.
 
-## LaTeX
-+ [LaTeX](http://www.latex-project.org/) A document preparation system.
-+ [LaTeX styles](http://schneider.ncifcrf.gov/latex.html) for biologists.
-+ [Beamer themes](http://www.hartwork.org/beamer-theme-matrix/) slides themes of LaTeX in matrix.
-+ [Beamer themes gallery](http://deic.uab.es/~iblanes/beamer_gallery/) summary of beamer slide themes.
-+ [Lyx](http://www.lyx.org/) a nice UGI of LaTeX.
-+ [Lyz](https://github.com/willsALMANJ/lyz) a add-on of Lyx for reference citation.
+## Python
++ [Python Programming Tutorials](https://www.youtube.com/user/sentdex) Stackoverflow usually sloves most of my problems. But in order to understand things better and know the unknows, I follow this guy on YouTube. He is pretty good at explain things in layman's terms, which is what I prefer :) 
 
 ## Phylogenetic tools
++ [Clustal Omega](http://www.ebi.ac.uk/Tools/msa/clustalo/) Quick light alignment tool
+
+
+## Bioinformatic tools
++ [ExPASy-translate](http://web.expasy.org/translate/) ExPASy provides all sorts of bioinformatic tools and I use this translator pretty often. It gives you all 6 possible ORFs.
 
 ## Blogs
++ [The Molecular Ecologist](http://www.molecularecologist.com/) My new favourite! I might become a molecular ecologist someday!
 + [ACGT](http://www.acgt.me/) Thoughts on biology, genomics, and the ongoing threat to humanity from the bogus use of bioinformatics acronyms.
-+ [The EEB & Flow](http://evol-eco.blogspot.ca/) 
 + [Philip Guo](http://pgbovine.net/index.html) Author of PhD Grind.
 + [Titus Brown](http://ivory.idyll.org/blog/) Living in an avory basement
 + [Hazel](http://cane-toad.blogspot.com/) Biosecurity and invasive species
 
 
 ## Misc.
-+ [Markdown](http://daringfireball.net/projects/markdown/syntax) a human readable language for easy writing.
-+ [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) a help document for [Git](http://git-scm.com/).
-+ [Github](https://github.com/) check it out!
-
++ [Convert Case](https://convertcase.net/) From upper to lower to sentence to title case.

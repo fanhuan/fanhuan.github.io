@@ -15,6 +15,9 @@ layout: home
 </ul>
 
 
-## Alignment and assembly-free Phylogenomics
+## Assembly and alignment-free Phylogenomics
 The major project I was working on is to develop this Alignment and Assembly Free (AAF) method to reconstruct phylogeny from raw sequencing data. You can find the software package with detailed documentation and tutorial  [here](http://sourceforge.net/projects/aaf-phylogeny/).
+
+## Assembly and alignment-free for RADseq data
+This paper is still under review but you're welcome to try the package [phyloRAD](https://github.com/fanhuan/phyloRAD). It is still assembly and alignment-free but tailored for RADseq, or any other reduced representation sequencing data. 
 
