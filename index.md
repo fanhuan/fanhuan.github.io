@@ -20,14 +20,10 @@ layout: home
 
 <p><img src="https://scontent-b.xx.fbcdn.net/hphotos-prn2/t31.0-8/p843x403/1401422_10203779727520797_4064087716814386306_o.jpg " height=300, title="Huan Fan" align="right" />
 
-I'm a PhD student in the Department of [Zoology](http://www.zoology.wisc.edu/), University of Wisconsin-Madison. I work with [Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html). My research focuses on developing tools for analysing next-generation sequencing data without reference genomes, which are usually not available for non-model organisms with ecological or evolutionary interests. 
+I'm a Postdoc in the [Currie Lab](https://currielab.wisc.edu/index.php) in Department of Bacteriology in University of Wisconsin-Madison. I work with [Dr. Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) for my Ph.D in UW-Madison. My research focuses on developing tools for analysing next-generation sequencing data without reference genomes, which are usually not available for non-model organisms with ecological or evolutionary interests. 
 
-I got my first PhD degree from Xishuangbanna Tropical Botanical Garden[(XTBG)](http://english.xtbg.cas.cn/), Chinese Academy of Sciences. There I worked with [Chuck Cannon](http://www.ecologicalevolution.org/), [Yann Surget-Groba](http://www.surget-groba.ch/start.php) and [Jin Chen](http://eepai.groups.xtbg.cn/) on the coevolution between fig and fig-wasps.
+I got my first PhD degree from Xishuangbanna Tropical Botanical Garden [(XTBG)](http://english.xtbg.cas.cn/), Chinese Academy of Sciences. There I worked with [Chuck Cannon](http://www.ecologicalevolution.org/), [Yann Surget-Groba](http://www.surget-groba.ch/start.php) and [Jin Chen](http://eepai.groups.xtbg.cn/) on the coevolution between fig and fig-wasps.
 
 
 ### Contact me
-Department of Zoology
-University of Wisconsin-Madison  
-430 Lincoln Drive  
-Madison, WI 53706  
 <a href="mailto: hfan22@wisc.edu"><i class="fa fa-envelope"></i> E-mail</a>    
