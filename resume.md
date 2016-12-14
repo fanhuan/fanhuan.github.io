@@ -18,7 +18,7 @@ layout: home
 
 ## Education 
 +  2011 ~ 2016, **Ph.D** Department of Zoology, University of Wisconsin-Madison.
-_**Thesis**: Assembly and Alignment Free Methods for Phylogenetic Reconstruction andGenome-Wide Association Studies_
+_**Thesis**: Assembly and Alignment Free Methods for Phylogenetic Reconstruction and Genome-Wide Association Studies_
 +  2008 ~ 2015, **Ph.D** Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
 _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) powered by next-generation sequencing_
 +  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang College, Sichuan University, China.
