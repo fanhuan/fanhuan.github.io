@@ -19,6 +19,13 @@ layout: home
 ## [My Github Page](https://github.com/fanhuan)
 Various ongoing projects.
 
+## Bioinformatic tools
++ [ExPASy-translate](http://web.expasy.org/translate/) ExPASy provides all sorts of bioinformatic tools and I use this translator pretty often. It gives you all 6 possible ORFs.
+
+## Databases
++ [JGI]() Metagenomics
+
+
 ## Python
 + [Python Programming Tutorials](https://www.youtube.com/user/sentdex) Stackoverflow usually sloves most of my problems. But in order to understand things better and know the unknows, I follow this guy on YouTube. He is pretty good at explain things in layman's terms, which is what I prefer :) 
 
@@ -26,8 +33,6 @@ Various ongoing projects.
 + [Clustal Omega](http://www.ebi.ac.uk/Tools/msa/clustalo/) Quick light alignment tool
 
 
-## Bioinformatic tools
-+ [ExPASy-translate](http://web.expasy.org/translate/) ExPASy provides all sorts of bioinformatic tools and I use this translator pretty often. It gives you all 6 possible ORFs.
 
 ## Blogs
 + [The Molecular Ecologist](http://www.molecularecologist.com/) My new favourite! I might become a molecular ecologist someday!
