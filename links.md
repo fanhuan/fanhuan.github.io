@@ -21,6 +21,7 @@ Various ongoing projects.
 
 ## Bioinformatic tools
 + [ExPASy-translate](http://web.expasy.org/translate/) ExPASy provides all sorts of bioinformatic tools and I use this translator pretty often. It gives you all 6 possible ORFs.
++ [Reverse compliment](http://www.bioinformatics.org/sms/rev_comp.html)
 
 ## Databases
 + [JGI]() Metagenomics
