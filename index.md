@@ -18,7 +18,7 @@ layout: home
 
 
 
-<p><img src="https://scontent-b.xx.fbcdn.net/hphotos-prn2/t31.0-8/p843x403/1401422_10203779727520797_4064087716814386306_o.jpg " height=300, title="Huan Fan" align="right" />
+<p><img src="https://media.microbialsciences.wisc.edu/people/bact/hfan.jpg " height=150, title="Huan Fan" align="right" />
 
 I'm a Postdoc in the [Currie Lab](https://currielab.wisc.edu/index.php) in Department of Bacteriology in University of Wisconsin-Madison. I work with [Dr. Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) for my Ph.D in UW-Madison. My research focuses on developing tools for analysing next-generation sequencing data without reference genomes, which are usually not available for non-model organisms with ecological or evolutionary interests. 
 

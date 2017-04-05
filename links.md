@@ -21,7 +21,11 @@ Various ongoing projects.
 
 ## Bioinformatic tools
 + [ExPASy-translate](http://web.expasy.org/translate/) ExPASy provides all sorts of bioinformatic tools and I use this translator pretty often. It gives you all 6 possible ORFs.
+<<<<<<< HEAD
 + [SAM file flag explianed] (https://broadinstitute.github.io/picard/explain-flags.html) An interactive tool.
+=======
++ [Reverse compliment](http://www.bioinformatics.org/sms/rev_comp.html)
+>>>>>>> 0cbfe3b87b9fcd532ccb41b65343ecf081a95682
 
 ## Databases
 + [JGI]() Metagenomics
