@@ -20,7 +20,7 @@ layout: home
 
 <p><img src="https://media.microbialsciences.wisc.edu/people/bact/hfan.jpg " height=150, title="Huan Fan" align="right" />
 
-I'm a Postdoc in the [Currie Lab](https://currielab.wisc.edu/index.php) in Department of Bacteriology in University of Wisconsin-Madison. I work with [Dr. Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) for my Ph.D in UW-Madison. My research focuses on developing tools for analysing next-generation sequencing data without reference genomes, which are usually not available for non-model organisms with ecological or evolutionary interests. 
+I'm a Postdoc in the [Currie Lab](https://currielab.wisc.edu/index.php) in Department of Bacteriology in University of Wisconsin-Madison. I just started working on Drosophila microbiome. I worked with [Dr. Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) for my Ph.D in UW-Madison. My UW thesis was on developing tools for analysing next-generation sequencing data without reference genomes, which are usually not available for non-model organisms with ecological or evolutionary interests. 
 
 I got my first PhD degree from Xishuangbanna Tropical Botanical Garden [(XTBG)](http://english.xtbg.cas.cn/), Chinese Academy of Sciences. There I worked with [Chuck Cannon](http://www.ecologicalevolution.org/), [Yann Surget-Groba](http://www.surget-groba.ch/start.php) and [Jin Chen](http://eepai.groups.xtbg.cn/) on the coevolution between fig and fig-wasps.
 
