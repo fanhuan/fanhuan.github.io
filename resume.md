@@ -27,7 +27,8 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +  2017, **Postdoc**, Department of Bacteriology, University of Wisconsin-Madison
 +  2015, **Guest lecturer**, Associated Colleges of the Chicago Area seminar series.
 +  2014, **Teaching assistant**, Introductory Biology (Zoo152), UW-Madison
-+  2012, **Teaching assistant**, Introductory Ecology (Zoo260), UW-Madison+  2010, **Intern**, Botanical Garden Conservation International (London, UK, NGO)
++  2012, **Teaching assistant**, Introductory Ecology (Zoo260), UW-Madison
++  2010, **Intern**, Botanical Garden Conservation International (London, UK, NGO)
 
 ## Publication
 +	Kozlowski, G, Gibbs D, **Fan H**, Frey D, and Gratzfeld J (2012) Conservation of threatened relict trees through living ex situ collections: lessons from the global survey of the genus Zelkova (Ulmaceae). _Biodiversity and Conservation_ 21:671-685 
