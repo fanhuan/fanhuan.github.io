@@ -12,7 +12,6 @@ layout: home
   <li><a href="research.html" title="Research"><i class="fa fa-flask fa-fw"></i> Research</a></li>
   <li><a href="links.html" title="Useful links"><i class="fa fa-suitcase fa-fw"></i> Links</a></li>
   <li><a href="/en/"><i class="fa fa-sitemap fa-fw"></i> Blog</a></li>
-  <li><a href="/cn/"><i class="fa fa-sitemap fa-fw"></i> Chinese</a></li>
   <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
 </ul>
 
