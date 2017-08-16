@@ -16,8 +16,7 @@ layout: home
 </ul>
 
 
-
-<p><img src="https://media.microbialsciences.wisc.edu/people/bact/hfan.jpg " height=150, title="Huan Fan" align="right" />
+<p><img src="https://media.microbialsciences.wisc.edu/people/bact/hfan.jpg " height=150, title="Huan Fan" align="right" /></p>
 
 I'm a Postdoc in the [Currie Lab](https://currielab.wisc.edu/index.php) in Department of Bacteriology in University of Wisconsin-Madison. I just started working on Drosophila microbiome. I worked with [Dr. Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) for my Ph.D in UW-Madison. My UW thesis was on developing tools for analysing next-generation sequencing data without reference genomes, which are usually not available for non-model organisms with ecological or evolutionary interests. 
 
