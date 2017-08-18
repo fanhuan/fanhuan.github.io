@@ -18,9 +18,10 @@ layout: home
 ## Education 
 +  2011 ~ 2016, **Ph.D** Department of Zoology, University of Wisconsin-Madison.
 _**Thesis**: Assembly and Alignment Free Methods for Phylogenetic Reconstruction and Genome-Wide Association Studies_
++ 2015 ~ 2016, **Data Science Specialization**, Johns Hopkins University through Coursera  
 +  2008 ~ 2015, **Ph.D** Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences.
 _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) powered by next-generation sequencing_
-+  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang College, Sichuan University, China.
++  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang Honors College, Sichuan University, China.
 
 ## Work Experience
 +  2017, **Postdoc**, Department of Bacteriology, University of Wisconsin-Madison
@@ -35,7 +36,7 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +	**Fan H**, Ives A, Surget-Groba Y (In review). Reconstructing phylogeny from reduced-representation genome sequencing data without assembly or alignment, _Molecular Ecology Resources_
 
 
-##Presentation
+## Presentation
 +	2015   **Talk**. A transcriptome analysis of the two types of female florets in Ficusfistulosa, _Association of Tropical Biology and Conservation annual meeting_, Cambodia.
 +	2011   **Poster**. Reference-free phylogenomic analysis of the genus ficus using next-gen sequence data, _OIST Summer School and Workshop “Quantitative Evolutionary and Comparative Genomics"_, Okinawa Institute of Science and Technology, Japan. 
 +	2010   **Poster**. Digital rapid biodiverstiy assessment, _Students Conference on Conservation Sciences_, Cambridge University, UK.
