@@ -23,6 +23,11 @@ Various ongoing projects.
 + [SAM file flag explained](https://broadinstitute.github.io/picard/explain-flags.html) Picard
 + [Reverse compliment](http://www.bioinformatics.org/sms/rev_comp.html)
 
+## Data Science
+[Insight blog](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)  
+[The Data Incubator blog](http://blog.thedataincubator.com/)  
+[HORTONWORKS](https://hortonworks.com/blog/)
+
 ## Databases
 + [JGI]() Metagenomics
 + [Genome book](https://symbiosis-u19.microbialsciences.wisc.edu/protected/index.php) CETR
