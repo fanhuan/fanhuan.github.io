@@ -26,7 +26,8 @@ Various ongoing projects.
 ## Data Science
 [Insight blog](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)  
 [The Data Incubator blog](http://blog.thedataincubator.com/)  
-[HORTONWORKS](https://hortonworks.com/blog/)
+[HORTONWORKS](https://hortonworks.com/blog/)  
+[mapr](https://mapr.com/blog/)
 
 ## Databases
 + [JGI]() Metagenomics
