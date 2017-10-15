@@ -13,7 +13,7 @@ layout: home
   <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
 </ul>
 
-
+<img width="456" alt="figure1" src="https://user-images.githubusercontent.com/7167719/31589516-77900134-b1c8-11e7-8748-fddf6cb3a2f7.png">
 ## Assembly and alignment-free Phylogenomics
 The major project I was working on is to develop this Alignment and Assembly Free (AAF) method to reconstruct phylogeny from raw sequencing data. You can find the software package with detailed documentation and tutorial  [here](http://sourceforge.net/projects/aaf-phylogeny/).
 
