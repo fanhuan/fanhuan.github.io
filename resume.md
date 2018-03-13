@@ -36,7 +36,10 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 
 + Carlos C, **Fan H**, and Currie C (2018). Enhanced lignocellulose degradation through synergistic bacterial growth. _Frontiers in Microbiology_ 9:364
 
++ Kozlowski, G, Gibbs D, **Fan H**, Frey D, and Gratzfeld J (2012) Conservation of threatened relict trees through living ex situ collections: lessons from the global survey of the genus Zelkova (Ulmaceae). _Biodiversity and Conservation_ 21:671-685
+
 + Lily Khadempour, **Fan H**, Ken Keefover-Ring, Camila Carlos, Nilson S. Nagamoto, Miranda A. Dam, Monica T. Pupo, Cameron R. Currie, Metagenomics reveals diet-specific specialization in fungus gardens of grass-and dicot-cutter ants, _bioRxiv_, 2018: 2509935 
+
 
 
 
