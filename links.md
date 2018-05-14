@@ -19,10 +19,12 @@ layout: home
 Various ongoing projects.
 
 ## Bioinformatic tools
+### Web-based
 + [ExPASy-translate](http://web.expasy.org/translate/) ExPASy provides all sorts of bioinformatic tools and I use this translator pretty often. It gives you all 6 possible ORFs.
 + [SAM file flag explained](https://broadinstitute.github.io/picard/explain-flags.html) Picard
 + [Reverse compliment](http://www.bioinformatics.org/sms/rev_comp.html)
-
+### Stand alone
++ [Artemis](https://www.sanger.ac.uk/science/tools/artemis) Genome browser
 ## Data Science
 [Insight blog](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)  
 [The Data Incubator blog](http://blog.thedataincubator.com/)  
