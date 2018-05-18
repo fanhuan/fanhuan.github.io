@@ -25,6 +25,7 @@ Various ongoing projects.
 + [Reverse compliment](http://www.bioinformatics.org/sms/rev_comp.html)
 ### Stand alone
 + [Artemis](https://www.sanger.ac.uk/science/tools/artemis) Genome browser
++ [SortMeDNA](http://bioinfo.lifl.fr/RNA/sortmerna/) rRNA separator
 ## Data Science
 [Insight blog](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)  
 [The Data Incubator blog](http://blog.thedataincubator.com/)  
@@ -36,7 +37,7 @@ Various ongoing projects.
 + [Genome book](https://symbiosis-u19.microbialsciences.wisc.edu/protected/index.php) CETR
 
 ## Python
-+ [Python Programming Tutorials](https://www.youtube.com/user/sentdex) Stackoverflow usually sloves most of my problems. But in order to understand things better and know the unknows, I follow this guy on YouTube. He is pretty good at explain things in layman's terms, which is what I prefer :) 
++ [Python Programming Tutorials](https://www.youtube.com/user/sentdex) Stackoverflow usually sloves most of my problems. But in order to understand things better and know the unknows, I follow this guy on YouTube. He is pretty good at explain things in layman's terms, which is what I prefer :)
 
 ## Phylogenetic tools
 + [Clustal Omega](http://www.ebi.ac.uk/Tools/msa/clustalo/) Quick light alignment tool
