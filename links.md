@@ -43,6 +43,10 @@ Various ongoing projects.
 + [Clustal Omega](http://www.ebi.ac.uk/Tools/msa/clustalo/) Quick light alignment tool
 
 
+## Research 
+
++ [Various tools for researchers](http://connectedresearchers.com/online-tools-for-researchers/)
+
 
 ## Blogs
 + [The Molecular Ecologist](http://www.molecularecologist.com/) My new favourite! I might become a molecular ecologist someday!
