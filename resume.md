@@ -35,7 +35,7 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +	**Fan H**, Ives A, Surget-Groba Y, Cannon C (2015). An assembly and alignment-free method of phylogeny reconstruction from next-generation sequencing data, _BMC Genomics_ 16:522
 +	**Fan H**, Ives A, Surget-Groba Y (2018). Reconstructing phylogeny from reduced-representation genome sequencing data without assembly or alignment, _Molecular Ecology Resources_ 18(6), 1482–1491 [Full text](https://rdcu.be/6cok)
 
-+ Carlos C, **Fan H**, and Currie C (2018). Enhanced lignocellulose degradation through synergistic bacterial growth. _Frontiers in Microbiology_ 9:364
++ Carlos C, **Fan H**, and Currie C (2018). Substrate shift reveals roles for members of bacterial consortia in lignocellulose degradation. _Frontiers in Microbiology_ 9:364
 
 + Kozlowski, G, Gibbs D, **Fan H**, Frey D, and Gratzfeld J (2012) Conservation of threatened relict trees through living ex situ collections: lessons from the global survey of the genus Zelkova (Ulmaceae). _Biodiversity and Conservation_ 21:671-685
 
