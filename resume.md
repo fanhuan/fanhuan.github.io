@@ -24,15 +24,16 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang Honors College, Sichuan University, China.
 
 ## Work Experience
++ 2020 **Postdoc**(again!), Xishuangbanna Tropical Botanical Garden 
++ 2018 - 2019, **Research Scientist**, WIL@NUS Cooperate Lab, Wilmar International, Singapore
 +  2017, **Postdoc**, Department of Bacteriology, University of Wisconsin-Madison
 +  2015, **Guest lecturer**, Associated Colleges of the Chicago Area seminar series.
 +  2014, **Teaching assistant**, Introductory Biology (Zoo152), UW-Madison
-+  2012, **Teaching assistant**, Introductory Ecology (Zoo260), UW-Madison
-+  2010, **Intern**, Botanical Garden Conservation International (London, UK, NGO)
++  2012, **Teaching assistant**, Introductory Ecology (Zoo260), UW-Madison+  2010, **Intern**, Botanical Garden Conservation International (London, UK, NGO)
 
 ## Publication
 +	**Fan H**, Ives A, Surget-Groba Y, Cannon C (2015). An assembly and alignment-free method of phylogeny reconstruction from next-generation sequencing data, _BMC Genomics_ 16:522
-+	**Fan H**, Ives A, Surget-Groba Y (2018). Reconstructing phylogeny from reduced-representation genome sequencing data without assembly or alignment, _Molecular Ecology Resources_ [Full text](https://rdcu.be/6cok)
++	**Fan H**, Ives A, Surget-Groba Y (2018). Reconstructing phylogeny from reduced-representation genome sequencing data without assembly or alignment, _Molecular Ecology Resources_ 18(6), 1482–1491 [Full text](https://rdcu.be/6cok)
 
 + Carlos C, **Fan H**, and Currie C (2018). Enhanced lignocellulose degradation through synergistic bacterial growth. _Frontiers in Microbiology_ 9:364
 
@@ -41,9 +42,13 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 + Lily Khadempour, **Fan H**, Ken Keefover-Ring, Camila Carlos, Nilson S. Nagamoto, Miranda A. Dam, Monica T. Pupo, Cameron R. Currie, Metagenomics reveals diet-specific specialization in fungus gardens of grass-and dicot-cutter ants, _bioRxiv_, 2018: 2509935
 
 
-
-
 ## Presentation
-+	2015   **Talk**. A transcriptome analysis of the two types of female florets in Ficusfistulosa, _Association of Tropical Biology and Conservation annual meeting_, Cambodia.
++  2020 **Talk**. Impact of seasonality on gut microbiota of free-ranging herbivores, _Savanna Science Network Meeting_, South Africa.
+
++  2017 **Talk**. Fantastic _k_-mers and where to find them, _Evolution Seminar Series_, UW-Madison
++	2015   **Talk**. A transcriptome analysis of the two types of female florets in Ficus fistulosa, _Association of Tropical Biology and Conservation annual meeting_, Cambodia.
 +	2011   **Poster**. Reference-free phylogenomic analysis of the genus ficus using next-gen sequence data, _OIST Summer School and Workshop “Quantitative Evolutionary and Comparative Genomics"_, Okinawa Institute of Science and Technology, Japan.
-+	2010   **Poster**. Digital rapid biodiverstiy assessment, _Students Conference on Conservation Sciences_, Cambridge University, UK.
++	2010   **Poster**. Digital rapid biodiverstiy assessment, _Students Conference on Conservation Sciences_, Cambridge University, UK.## Workshop and others
++ 2019 National Data Science Competition, Singapore
++ 2018 Natural Language Processing Module @ Yidu AI, Singapore
++ 2018 **Teacher** Introduction to Python (2-day workshop), Xishuangbanna Tropical Botanical Garden
