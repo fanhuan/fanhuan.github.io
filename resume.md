@@ -41,6 +41,13 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 
 + Lily Khadempour, **Fan H**, Ken Keefover-Ring, Camila Carlos, Nilson S. Nagamoto, Miranda A. Dam, Monica T. Pupo, Cameron R. Currie, Metagenomics reveals diet-specific specialization in fungus gardens of grass-and dicot-cutter ants, _bioRxiv_, 2018: 2509935
 
+## Grant
++ 2019-2021, International Postdoc Award, China (this one pays my salary)
++ 2019-2021, National Postdoc Research Grant (batch 66), China (with this one I kill goats)
++ 2019-2021, Provincial Postdoc Grant, Yunnan, China (with this one I buy computing resources and kill cows too)
++ 2019-2021, Postdoc Research Grant, Xishuangbanna Tropical Botanical Garden (with this one I do sequencing)
+
+Just kidding, I do a bit of sacrificing herbivores, sequencing and computing in all last three. 
 
 ## Presentation
 +  2020 **Talk**. Impact of seasonality on gut microbiota of free-ranging herbivores, _Savanna Science Network Meeting_, South Africa.
@@ -52,3 +59,6 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 + 2019 National Data Science Competition, Singapore
 + 2018 Natural Language Processing Module @ Yidu AI, Singapore
 + 2018 **Teacher** Introduction to Python (2-day workshop), Xishuangbanna Tropical Botanical Garden
+
+## Membership
+2019- Association for Computing Machinery
