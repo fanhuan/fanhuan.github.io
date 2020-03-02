@@ -16,11 +16,11 @@ layout: home
 </ul>
 
 
-<img src="https://i0.wp.com/www.communityecologyconservation.com/wp-content/uploads/2019/08/FanHuan.jpeg" height="200" title="Huan Fan" align="right">
+<img src="https://i0.wp.com/www.communityecologyconservation.com/wp-content/uploads/2019/08/FanHuan.jpeg" height="100" title="Huan Fan" align="right">
 
 I'm a Postdoc in the [Community Ecology and Conservation](https://www.communityecologyconservation.com/) group in Xishuangbanna Tropical Botanical Garden ([XTBG](http://english.xtbg.cas.cn/)), Chinese Academy of Sciences. I am interested in the forces that shapes gut microbiota, especially for ruminants since they depend heavily on their gut microbes for digestion. I started to work on microbiome during my first postdoc in the [Currie Lab](https://currielab.wisc.edu/index.php) in Department of Bacteriology in University of Wisconsin-Madison. Currently I am working on developing tools for simultaneous assessment of plant diet composition and gut microbiome from metagenomic sequencing of fecal samples of herbivores in order to study the diet-microbiome linkage on individual levels.
 
-Before this I wandered into industry where I worked as a bioinformatician in [WIL@NUS](https://wil-nus.sg/), a cooperate lab between Wilmar International and National University of Singapore. It was a lot of fun. 
+Before this I wandered into industry where I worked as a bioinformatician at [WIL@NUS](https://wil-nus.sg/), a corporate lab between Wilmar International and National University of Singapore. It was a lot of fun. 
  
 I've always worked with high-throuput sequencing data. My PhD thesis at UW-Madison with [Dr. Tony Ives](http://www.zoology.wisc.edu/faculty/ive/ive.html) was on developing tools for analysing next-generation sequencing data without reference genomes, which are usually not available for non-model organisms with ecological or evolutionary interests. Things are getting much better now with the decrease of sequencing cost and increase of computing power, not to mention the benefit of long reads.
 
