@@ -32,14 +32,18 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +  2012, **Teaching assistant**, Introductory Ecology (Zoo260), UW-Madison+  2010, **Intern**, Botanical Garden Conservation International (London, UK, NGO)
 
 ## Publication
-+	**Fan H**, Ives A, Surget-Groba Y, Cannon C (2015). An assembly and alignment-free method of phylogeny reconstruction from next-generation sequencing data, _BMC Genomics_ 16:522
-+	**Fan H**, Ives A, Surget-Groba Y (2018). Reconstructing phylogeny from reduced-representation genome sequencing data without assembly or alignment, _Molecular Ecology Resources_ 18(6), 1482–1491 [Full text](https://rdcu.be/6cok)
++	**Fan, H.**, Ives, A., Surget-Groba, Y., Cannon, C. (2015). An assembly and alignment-free method of phylogeny reconstruction from next-generation sequencing data, _BMC Genomics_, 16:522
++	**Fan, H.**, Ives, A., Surget-Groba, Y. (2018). Reconstructing phylogeny from reduced-representation genome sequencing data without assembly or alignment, _Molecular Ecology Resources_, 18(6), 1482–1491 [Full text](https://rdcu.be/6cok)
 
-+ Carlos C, **Fan H**, and Currie C (2018). Substrate shift reveals roles for members of bacterial consortia in lignocellulose degradation. _Frontiers in Microbiology_ 9:364
++ Carlos, C., **Fan, H.**, and Currie, C. (2018). Substrate shift reveals roles for members of bacterial consortia in lignocellulose degradation. _Frontiers in Microbiology_, 9:364
 
-+ Kozlowski, G, Gibbs D, **Fan H**, Frey D, and Gratzfeld J (2012) Conservation of threatened relict trees through living ex situ collections: lessons from the global survey of the genus Zelkova (Ulmaceae). _Biodiversity and Conservation_ 21:671-685
++ Khadempour, L., **Fan, H.**, Keefover-Ring, K., Carlos-Shanley, C., Nagamoto, N.S., Dam, M.A., Pupo, M.T. and Currie, C.R. (2020). Metagenomics reveals diet-specific specialization of bacterial communities in fungus gardens of grass-and dicot-cutter ants. _Frontiers in microbiology_, 11.
 
-+ Lily Khadempour, **Fan H**, Ken Keefover-Ring, Camila Carlos, Nilson S. Nagamoto, Miranda A. Dam, Monica T. Pupo, Cameron R. Currie, Metagenomics reveals diet-specific specialization in fungus gardens of grass-and dicot-cutter ants, _bioRxiv_, 2018: 2509935
++ Barcoto, M.O., Carlos-Shanley, C., **Fan, H.**, Ferro, M., Nagamoto, N.S., Bacci, M., Currie, C.R. and Rodrigues, A. (2020). Fungus-growing insects host a distinctive microbiota apparently adapted to the fungiculture environment. _Scientific reports_, 10(1), pp.1-13.
++ Silvaraju, S., Menon, N., **Fan, H.**, Lim, K. and Kittelmann, S. (2020). Phylotype-Level Characterization of Complex Lactobacilli Communities Using a High-Throughput, High-Resolution Phenylalanyl-tRNA Synthetase (pheS) Gene Amplicon Sequencing Approach. _Applied and Environmental Microbiology_, AEM.02191–20.
+
++ Kozlowski, G., Gibbs, D., **Fan, H.**, Frey, D., and Gratzfeld, J. (2012) Conservation of threatened relict trees through living ex situ collections: lessons from the global survey of the genus Zelkova (Ulmaceae). _Biodiversity and Conservation_, 21:671-685
+
 
 ## Grant
 + 2019-2021, International Postdoc Award, China (this one pays my salary)
