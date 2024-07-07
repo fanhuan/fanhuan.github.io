@@ -23,6 +23,15 @@ _**Thesis**: Assembly and Alignment Free Methods for Phylogenetic Reconstruction
 _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) powered by next-generation sequencing_
 +  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang Honors College, Sichuan University, China.
 
+## Teaching (in English)
+•	2019 ~ 2024, Lecturer, Advanced Statistics (Bayesian module), 2.5 credit, University of Chinese Academy of Sciences.
+•	2021, Lecturer, Meta-barcoding Workshop, 1 credit, University of Chinese Academy of Sciences.
+•	2020, Lecturer, Introduction to Python and Web Crawling, 1 credit, University of Chinese Academy of Sciences.
+•	2015, Guest lecturer, Associated Colleges of the Chicago Area seminar series.
+•	2014, Teaching assistant, Introductory Biology (Zoo152), University of Wisconsin-Madison
+•	2012, Teaching assistant, Introductory Ecology (Zoo260), University of Wisconsin-Madison
+
+
 ## Work Experience
 +  2023 - , **Research Scientist**(again!), WIL@NUS Cooperate Lab, Wilmar International, Singapore
 +  2020 - 2023, **Postdoc**(again!), Xishuangbanna Tropical Botanical Garden 
@@ -35,17 +44,20 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 
 ## Publication
 
++ Yang, J., **Fan, H.**, He, Y., Wang, G., Cao, M., & Swenson, N. G*. (2024) Functional genomics and co-occurrence in a diverse tropical tree genus: The roles of drought- and defence-related genes. _Journal of Ecology_, 112: 575–589.  
++ Wang, X.<sup>1</sup>, **Fan, H<sup>1*</sup>**., Phoncharoen, W., Gélin, U., Tomlinson, K.W. (2023) Leaf chemistry of architecturally defended plants responds more strongly to soil phosphorus variation than non-architecturally defended ones. _Physiologia Plantarum_ 175, e13856.
++ Nimalrathna, T.S., **Fan, H.**, Quan, R.-C. & Nakamura, A*. (2023) Enhancing the dung beetle iDNA tool for mammalian biodiversity monitoring and ecological studies. _Integrative Conservation_, 2, 133–139. 
++ **Fan, H.**, Li, J.Y., Landrein, S*. (2022) Complete chloroplast genome of Nyctocalos pinnatum: chloroplast features and phylogenetic relationships within Bignoniaceae. _Mitochondrial DNA Part B_: Resources 7(6): 1035-1037.
++ Chen, B., Loo, B.Z.L., Cheng, Y.Y., Song, P., **Fan, H.**, Latypov, O., Kittelmann, S*. (2022). Genome-wide high-throughput signal peptide screening via plasmid pUC256E improves protease secretion in Lactiplantibacillus plantarum and Pediococcus acidilactici. _BMC Genomics_ 23(1): 48.
++ Silvaraju, S., Menon, N., **Fan, H.**, Lim, K. and Kittelmann, S*. (2021). Phylotype-Level Characterization of Complex Lactobacilli Communities Using a High-Throughput, High-Resolution Phenylalanyl-tRNA Synthetase (pheS) Gene Amplicon Sequencing Approach. _Applied and Environmental Microbiology_, 87(1): e02191-20.
++ Zhao, J.B., **Fan, H.**, Zhao, Y.B., Han, L.X.* (2021). Zebra Dove (_Geopelia striata_) Found in Mengla, Yunnan. _Chinese Journal of Zoology_. 56(6):870, 881(in Chinese with English abstract).
 +	**Fan, H.**, Ives, A., Surget-Groba, Y., Cannon, C. (2015). An assembly and alignment-free method of phylogeny reconstruction from next-generation sequencing data, _BMC Genomics_, 16:522
 +	**Fan, H.**, Ives, A., Surget-Groba, Y. (2018). Reconstructing phylogeny from reduced-representation genome sequencing data without assembly or alignment, _Molecular Ecology Resources_, 18(6), 1482–1491 [Full text](https://rdcu.be/6cok)
 + Carlos, C., **Fan, H.**, and Currie, C. (2018). Substrate shift reveals roles for members of bacterial consortia in lignocellulose degradation. _Frontiers in Microbiology_, 9:364
-
 + Khadempour, L., **Fan, H.**, Keefover-Ring, K., Carlos-Shanley, C., Nagamoto, N.S., Dam, M.A., Pupo, M.T. and Currie, C.R. (2020). Metagenomics reveals diet-specific specialization of bacterial communities in fungus gardens of grass-and dicot-cutter ants. _Frontiers in microbiology_, 11.
-
 + Barcoto, M.O., Carlos-Shanley, C., **Fan, H.**, Ferro, M., Nagamoto, N.S., Bacci, M., Currie, C.R. and Rodrigues, A. (2020). Fungus-growing insects host a distinctive microbiota apparently adapted to the fungiculture environment. _Scientific reports_, 10(1), pp.1-13.
 + Silvaraju, S., Menon, N., **Fan, H.**, Lim, K. and Kittelmann, S. (2020). Phylotype-Level Characterization of Complex Lactobacilli Communities Using a High-Throughput, High-Resolution Phenylalanyl-tRNA Synthetase (pheS) Gene Amplicon Sequencing Approach. _Applied and Environmental Microbiology_, AEM.02191–20.
-
 + Kozlowski, G., Gibbs, D., **Fan, H.**, Frey, D., and Gratzfeld, J. (2012) Conservation of threatened relict trees through living ex situ collections: lessons from the global survey of the genus Zelkova (Ulmaceae). _Biodiversity and Conservation_, 21:671-685
-
 
 ## Grant
 + 2019-2021, International Postdoc Award, China
@@ -59,11 +71,3 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +	2015   **Talk**. A transcriptome analysis of the two types of female florets in Ficus fistulosa, _Association of Tropical Biology and Conservation annual meeting_, Cambodia.
 +	2011   **Poster**. Reference-free phylogenomic analysis of the genus ficus using next-gen sequence data, _OIST Summer School and Workshop “Quantitative Evolutionary and Comparative Genomics"_, Okinawa Institute of Science and Technology, Japan.
 +	2010   **Poster**. Digital rapid biodiverstiy assessment, _Students Conference on Conservation Sciences_, Cambridge University, UK.
-
-## Workshop and others
-+ 2019 National Data Science Competition, Singapore
-+ 2018 Natural Language Processing Module @ Yidu AI, Singapore
-+ 2018 **Teacher** Introduction to Python (2-day workshop), Xishuangbanna Tropical Botanical Garden
-
-## Membership
-2019- Association for Computing Machinery
