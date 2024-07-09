@@ -24,12 +24,13 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 +  2004 ~ 2008, **B.S** Biotechnology, Wu Yuzhang Honors College, Sichuan University, China.
 
 ## Teaching (in English)
-•	2019 ~ 2024, Lecturer, Advanced Statistics (Bayesian module), 2.5 credit, University of Chinese Academy of Sciences.
-•	2021, Lecturer, Meta-barcoding Workshop, 1 credit, University of Chinese Academy of Sciences.
-•	2020, Lecturer, Introduction to Python and Web Crawling, 1 credit, University of Chinese Academy of Sciences.
-•	2015, Guest lecturer, Associated Colleges of the Chicago Area seminar series.
-•	2014, Teaching assistant, Introductory Biology (Zoo152), University of Wisconsin-Madison
-•	2012, Teaching assistant, Introductory Ecology (Zoo260), University of Wisconsin-Madison
++	2019 ~ 2024, Lecturer, Advanced Statistics (Bayesian module), 2.5 credit, University of Chinese Academy of Sciences.
+
++	2021, Lecturer, Meta-barcoding Workshop, 1 credit, University of Chinese Academy of Sciences.
++	2020, Lecturer, Introduction to Python and Web Crawling, 1 credit, University of Chinese Academy of Sciences.
++	2015, Guest lecturer, Associated Colleges of the Chicago Area seminar series.
++	2014, Teaching assistant, Introductory Biology (Zoo152), University of Wisconsin-Madison
++	2012, Teaching assistant, Introductory Ecology (Zoo260), University of Wisconsin-Madison
 
 
 ## Work Experience
