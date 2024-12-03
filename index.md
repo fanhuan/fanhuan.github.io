@@ -16,7 +16,7 @@ layout: home
 </ul>
 
 
-<img src="https://i0.wp.com/www.communityecologyconservation.com/wp-content/uploads/2019/08/FanHuan.jpeg" height="100" title="Huan Fan" align="right">
+<img src="https://fanhuan.github.io/en/images/huan2023.jpeg" height="100" title="Huan Fan" align="right">
 
 I'm a Research Scientist/Bioinformatician at [WIL@NUS](https://wil-nus.sg/), a corporate lab between Wilmar International and National University of Singapore. I work on various sequencing-related projects, with a major focus on Genome-wide Association Studies (GWAS).
 
