@@ -45,6 +45,8 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 
 ## Publication
 
++ Wu, X., Tjahyo, A.S., Volchanskaya, V.S.B. **Fan, H.** et al. A legume-enriched diet improves metabolic health in prediabetes mediated through gut microbiome: a randomized controlled trial. _Nature Communication_ 16, 942 (2025). https://doi.org/10.1038/s41467-025-56084-6
++ Nimalrathna, T.S., **Fan, H.**, Campos-Arceiz, A. and Nakamura, A. (2025), Dung Beetle iDNA Provides an Effective Way to Detect Diverse Mycological Communities. _Molecular Ecology Resources_, 25: e14091. https://doi.org/10.1111/1755-0998.14091
 + Yang, J., **Fan, H.**, He, Y., Wang, G., Cao, M., & Swenson, N. G*. (2024) Functional genomics and co-occurrence in a diverse tropical tree genus: The roles of drought- and defence-related genes. _Journal of Ecology_, 112: 575–589.  
 + Wang, X.<sup>1</sup>, **Fan, H<sup>1*</sup>**., Phoncharoen, W., Gélin, U., Tomlinson, K.W. (2023) Leaf chemistry of architecturally defended plants responds more strongly to soil phosphorus variation than non-architecturally defended ones. _Physiologia Plantarum_ 175, e13856.
 + Nimalrathna, T.S., **Fan, H.**, Quan, R.-C. & Nakamura, A*. (2023) Enhancing the dung beetle iDNA tool for mammalian biodiversity monitoring and ecological studies. _Integrative Conservation_, 2, 133–139. 
