@@ -25,7 +25,6 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 
 ## Teaching (in English)
 +	2019 ~ 2024, Lecturer, Advanced Statistics (Bayesian module), 2.5 credit, University of Chinese Academy of Sciences.
-
 +	2021, Lecturer, Meta-barcoding Workshop, 1 credit, University of Chinese Academy of Sciences.
 +	2020, Lecturer, Introduction to Python and Web Crawling, 1 credit, University of Chinese Academy of Sciences.
 +	2015, Guest lecturer, Associated Colleges of the Chicago Area seminar series.
@@ -45,7 +44,7 @@ _**Thesis**: Studies on the evolution of breeding systems in Ficus (Moraceae) po
 
 ## Publication
 
-+ Heng, Y.C., Chua, J.H.X., Silvaraju, S., **Fan, H.** et al. Metagenomic insights into the global wild boar faecal microbiome reveal novel taxa and carbohydrate degraders distinguishing wild and domesticated Sus. Microbiome 14, 142 (2026). https://doi.org/10.1186/s40168-026-02392-y
++ Heng, Y.C., Chua, J.H.X., Silvaraju, S., **Fan, H.** et al. Metagenomic insights into the global wild boar faecal microbiome reveal novel taxa and carbohydrate degraders distinguishing wild and domesticated Sus. _Microbiome_ 14, 142 (2026). https://doi.org/10.1186/s40168-026-02392-y
 + Wu, X., Tjahyo, A.S., Volchanskaya, V.S.B., **Fan, H.** et al. A legume-enriched diet improves metabolic health in prediabetes mediated through gut microbiome: a randomized controlled trial. _Nature Communication_ 16, 942 (2025). https://doi.org/10.1038/s41467-025-56084-6
 + Nimalrathna, T.S., **Fan, H.**, Campos-Arceiz, A. and Nakamura, A. (2025), Dung Beetle iDNA Provides an Effective Way to Detect Diverse Mycological Communities. _Molecular Ecology Resources_, 25: e14091. https://doi.org/10.1111/1755-0998.14091
 + Yang, J., **Fan, H.**, He, Y., Wang, G., Cao, M., & Swenson, N. G*. (2024) Functional genomics and co-occurrence in a diverse tropical tree genus: The roles of drought- and defence-related genes. _Journal of Ecology_, 112: 575–589.  
